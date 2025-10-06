@@ -1,0 +1,6 @@
+pandas
+yfinance
+ta
+stock-indicators
+psycopg2
+pytest
